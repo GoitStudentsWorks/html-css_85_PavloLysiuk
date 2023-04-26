@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TheWatchSpot/",
+    "build": "vite build --base=/html-css_85_PavloLysiuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
